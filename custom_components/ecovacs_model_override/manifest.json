@@ -1,0 +1,10 @@
+{
+  "domain": "ecovacs_model_override",
+  "name": "Ecovacs Model Override",
+  "config_flow": false,
+  "documentation": "https://github.com/nino76/ecovacs-model-override",
+  "integration_type": "service",
+  "iot_class": "calculated",
+  "version": "1.0.0",
+  "requirements": ["deebot-client==18.7.0"]
+}
